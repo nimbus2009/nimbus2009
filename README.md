@@ -27,7 +27,7 @@
 
 🌱 I’m currently learning HTML, JavaScript!, and Python!!
 
-💞️ I’m looking to collaborate on GitHub [I have intermediate experience in JS and some experience in HTML and little experience in Python]
+💞️ I’m looking to collaborate on GitHub [I have intermediate experience in JS and some experience in HTML and intermediate experience in Python]
 
 📫 How to reach me on Instagram: @Infinity_747474.
 
