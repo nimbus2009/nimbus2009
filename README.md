@@ -35,6 +35,12 @@
 
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 ***
 
 > Draco Dormeins Nunquam Titillandus
