@@ -29,7 +29,7 @@
 
 💞️ I’m looking to collaborate on GitHub [I have intermediate experience in JS and some experience in HTML and intermediate experience in Python]
 
-[!embed](http://www.youtube.com/watch?v=9bZkp7q19f0)
+<iframe width="727" height="409" src="https://www.youtube.com/embed/0uQwp2qn9cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
