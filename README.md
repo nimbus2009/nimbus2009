@@ -35,11 +35,9 @@
 
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+<div>
+    <button href="www.google.com">Google</button>
+</div>
 
 ***
 
