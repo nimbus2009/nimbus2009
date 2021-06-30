@@ -29,8 +29,6 @@
 
 💞️ I’m looking to collaborate on GitHub [I have intermediate experience in JS and some experience in HTML and intermediate experience in Python]
 
-<iframe width="727" height="409" src="https://www.youtube.com/embed/0uQwp2qn9cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ***
 
 📫 How to reach me on Instagram: @Infinity_747474.
