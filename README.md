@@ -35,10 +35,6 @@
 
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
-<button>Button element</button>
-
-{% include button.html url="http://www.google.com" %}
-
 ***
 
 > Draco Dormeins Nunquam Titillandus
