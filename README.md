@@ -35,9 +35,9 @@
 
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
-[Link button](https://github.com/nimbus2009){: .btn .btn-purple }
+<button>Button element</button>
 
-<button type="button" name="button" class="btn">Button element</button>
+{% include button.html url="http://www.google.com" %}
 
 ***
 
