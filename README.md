@@ -34,7 +34,10 @@
 📫 How to reach me on Instagram: @Infinity_747474.
 
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
+
 [Link button](https://github.com/nimbus2009){: .btn .btn-purple }
+
+<button type="button" name="button" class="btn">Button element</button>
 
 ***
 
