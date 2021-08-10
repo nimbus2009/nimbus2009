@@ -16,6 +16,11 @@
 
 🌟🌟🌟🌟🌟🌟
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimbus2009&label=Profile%20Views&color=00ffff&style=raised" /> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimbus2009&show_icons=true&locale=en&layout=compact" /></p><br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimbus2009&show_icons=true&locale=en"/></p>
 
 👋 Hi, I’m @nimbus2009
 
