@@ -1,20 +1,4 @@
-👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻
-
-👨🏻‍🎓👨🏻‍🎓👨🏻‍🎓👨🏻‍🎓👨🏻‍🎓👨🏻‍🎓
-
-📚📚📚📚📚📚
-
-💻💻💻💻💻💻
-
-🖥️🖥️🖥️🖥️🖥️🖥️
-
-🤓🤓🤓🤓🤓🤓
-
-🧲🔬🔭🧲🔬🔭
-
-👨‍🔬👨‍🔬👨‍🔬👨‍🔬👨‍🔬👨‍🔬
-
-🌟🌟🌟🌟🌟🌟
+# Hi! This is Anuj Doddakaragi
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nimbus2009&label=Profile%20Views&color=00ffff&style=raised" /> </p>
 
@@ -41,8 +25,6 @@
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
 ***
-
-> Draco Dormeins Nunquam Titillandus
 
 👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻
 
