@@ -19,6 +19,16 @@
 💞️ I’m looking to collaborate on GitHub [I have intermediate experience in JS and some experience in HTML and intermediate experience in Python]
 
 ***
+Me in brief:
+
+```JavaScript
+var me=[Introvert, SciGuy, LogicGuy, Coder, Curious, Imaginative, MCUfan, HPfan, 13yrOld]; 
+&& 
+var codinglife={
+  languages:["Python","Javascript"]
+}
+```
+***
 
 📫 How to reach me on Instagram: @Infinity_747474.
 
