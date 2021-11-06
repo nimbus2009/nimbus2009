@@ -31,8 +31,6 @@ anuj.says("Hello!");
 ```
 ***
 
-📫 How to reach me on Instagram: @Infinity_747474.
-
 🌐 [My website](https://anujmalateshadoddakaragi.whjr.site/)
 
 ***
