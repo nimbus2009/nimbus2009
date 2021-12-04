@@ -20,7 +20,7 @@
 
 ***
 ```JavaScript
-var me=[Introvert, SciGuy, LogicGuy, Coder, Curious, Imaginative, MCUfan, HPfan, 13yrOld]; 
+var me=[Introvert, SciGuy, LogicGuy, Coder, Curious, Imaginative, MCUfan, HPfan, StarWarsFan, 13yrOld]; 
 && 
 var codinglife={
   languages:["Python","Javascript"]
